@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "frick-dashcam",
+  "private_key_id": "918ac2a2ce160eba156c32c4161aac63777769dd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCp/AUTxEXMx1b8\nV7MkJnXu4e1cdePN+K0P7IE0Q1yBZfog0/Edhj6zh9jWI4s6tkqxDmKLJ/j9nh0f\n0Pou63MBOsjQZJiVHV9Cp2kSs2IZ6x/AtZGhGmvSdnfPoQOm7ngAP4gxUzEtDayh\nmaGcNboeuNMGvWqNMDdc7JoYLGd7hq+4XVRJILp6+0unUoQDNBsDNnaJdrL51rAU\ntEzf3XcRdxYsW3xh16zLWfSXC8KSILXH2VQzrGGssNiqm+HJcy8/3UH4T6xVsorI\n+mPRcC4ri0dPESZGVXds85C2XOzr0K/7wo4zL75mSNiLIlh13xxhhH84ZPtvHHMD\nZn9pEtenAgMBAAECggEAUBdl0QV2meEGtEkiKBNTF+Ytr5YAawkTieA2lIh0qqeA\n7jzOa8nX+0EzwtnmfRhtIvWTKtv/rof0UwxlBPx9KIQpID91wTSgsMgucthAjdPC\nF0u1vUG0seqN0y+bh+juc7d7lToMfpzlzRKVGgQamOUe0RsofDPOsiLtDBzH+WQb\nUSIkNaAjI7ndxsXV4m11q3bV1G15/9cA39+pMz1+dsY3kDmEsZN+0K7ER1yQugkB\nZRl9WoDSQSXbaTBGjfJzzSBacFagHR7Mshfx99dnU4/o9h8vzhvajdZyh2F5kf70\nb+i4SOSijhktYvmcHfl1xNhkkugdMuJHmiqtDpMjqQKBgQDuN5Sy47fj8aLIptBz\n2bJYRNTqJiwKKSQp/ompUkezpNFe4bU9q87w0R9tqKRaJqUcp13vM38s+w4W6Wh1\nPqGOuLokxvO6dBGHwU8TGNvas5zk+avlba2tL5zGU7N6vcwZ2Vejq/fCbWRHdi4+\ndzyCgNDdnRZG9e2JRN6g5cQL4wKBgQC2rHyt1W1GfdSOou3RDaGx0tRPbzow7L5s\nQ0/QAdPccVNlxsf+9xiGOIr8Z89pGD2qRUafSmyWkAaE6TAtIICdeOJ4CrVrbeuT\n0raD4guGPUQk6vhZ1MlglsjOREknNJ771Y5KLZMzOMoTJif7dMkWXT01F0B6TKsC\nJccB2DmYbQKBgDS0j23U/Eaum7mRTuWS8OaetAzqTSwiViIEcyjHT53rhXdcsODo\nNm0Jl86HVXWsvzNLxHi8CBNHqKJhGf92z//n1ydz7VD/hTFoD7rF8T6+JqRyqRml\n3ptGwYUP19H8VEAT2lQYJEUcNueouiqP7w9guNWPf/JLTzbjye4HaAzJAoGAaCSw\nNB6wXPbR3rvOn1eJLqsGtX6xC0F9UpWRhAH2uf+1zxlj3d0bkzHbMwkv+zeBuHgk\nSh4RCEl2HgIfoCqeiKhpXIymX2fcXXtM6KVPcqmtFusKyZQBdtqgAtB1cC+Uz/gx\nVeLjv9kJg59GPhqXpfNkOMdX0CGzgNbuvQN72oUCgYBoKgOQ6rQ9k3yvJem3ir2o\nT73RpM9PlgG02ZndcJ914Bxxkp9Rijl2eTv9QV3uhEnFCXPNipEbjPJIRJ/DRVEU\njHLL78EHUq5ze2NkrK6fU9lVp8Tmxmp88WjIIjokcPFWrWodvLN7KxqkOe6g7K2W\n7qCwN/bC/pbCEl9XFtSvIg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "frick-dashcam@appspot.gserviceaccount.com",
+  "client_id": "108372089540000699601",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/frick-dashcam%40appspot.gserviceaccount.com"
+}
